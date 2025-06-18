@@ -38,6 +38,25 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lagzenthakuri/lagzenthakuri/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lagzenthakuri/lagzenthakuri/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lagzenthakuri/lagzenthakuri/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=lagzenthakuri&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lagzenthakuri&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img align="right" height="200" src="![9xshjy](https://github.com/user-attachments/assets/505f89e9-7a39-4826-bf6e-6d6bed0b7b95)"  />
+
+###
+
 <div align="center">
   <a href="https://www.youtube.com/channel/UCQmp909J8KpqHM32EbYfyK" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -45,12 +64,17 @@
   <a href="https://www.instagram.com/lagzenthakuri/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lagzen-thakuri-813286290/" target="_blank">
+  <a href="https://www.linkedin.com/in/lagzen-thakuri-813286290/"![9xshjy](https://github.com/user-attachments/assets/94583a46-b77f-42f0-9a10-7d23176585b3)
+ target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=thakurizen2&theme=tokyonight" alt="Layout with last medium posts"  />
+</div>
 
 ###
 
