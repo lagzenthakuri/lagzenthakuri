@@ -1,5 +1,5 @@
 <h2 align="left">Hi! My name is Lagzen Thakuri and I'm a Software developer, from Nepal.</h2>
-
+[![committers.top badge](https://user-badge.committers.top/nepal/USERNAME.svg)](https://user-badge.committers.top/nepal/lagzenthakuri)
 ###
 
 <div align="center">
